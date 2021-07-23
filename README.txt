@@ -2,7 +2,7 @@
 
 the game.asm file contains the code for the game
 compile with tasm assembly 8086
-run the game with all the bmp files in the same directory as the .exe file
+run the game with the images directory in the same directory as the .exe file
 
 game rules:
 each player picks a character
